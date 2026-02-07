@@ -5,7 +5,7 @@ title: Shengbin Guo
 
 # <span style="color:#2b64b1;">Shengbin Guo (郭圣彬)</span>
 
-<img src="assets/photo.jpg" width="160" style="border:1px solid #ccc;border-radius:6px;">
+<img src="me.jpg" width="160" style="border:1px solid #ccc;border-radius:6px;">
 
 School of Science, Department of Frontier,
 Harbin Institute of Technology, Shenzhen.
