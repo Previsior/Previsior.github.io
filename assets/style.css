@@ -1,0 +1,18 @@
+body{
+  font-family: "Times New Roman", Times, serif;
+  font-size:16px;
+  line-height:1.35;
+}
+.container{
+  max-width: 920px;
+  margin: 28px auto;
+  padding: 0 18px;
+}
+h1,h2{
+  color:#2b64b1;
+}
+h2{
+  border-bottom:1px solid #cfcfcf;
+  padding-bottom:6px;
+}
+a{ color:#2b64b1; text-decoration: underline; }
