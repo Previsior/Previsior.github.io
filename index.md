@@ -10,7 +10,7 @@ title: Shengbin Guo
 School of Science, Department of Frontier,
 Harbin Institute of Technology, Shenzhen.
 
-[Email](mailto:shengbinguo2022@gmail.com)  
+Email: shengbinguo2022\[AT\]gmail\[DOT\]com
 
 ---
 
