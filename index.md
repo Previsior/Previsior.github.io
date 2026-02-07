@@ -3,9 +3,9 @@ layout: default
 title: Shengbin Guo
 ---
 
-# <span style="color:#2b64b1;">Shengbin Guo (郭圣彬)</span>
+<img src="me.jpg" style="float:right;width:160px;border:1px solid #cfcfcf;border-radius:6px;margin-left:20px;" />
 
-<img src="me.jpg" width="160" style="border:1px solid #ccc;border-radius:6px;">
+# <span style="color:#2b64b1;">Shengbin Guo (郭圣彬)</span>
 
 School of Science, Department of Frontier,
 Harbin Institute of Technology, Shenzhen.
