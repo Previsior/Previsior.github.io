@@ -10,13 +10,13 @@ title: Shengbin Guo
 School of Science, Department of Frontier,
 Harbin Institute of Technology, Shenzhen.
 
-Email: shengbinguo2022\[AT\]gmail\[DOT\]com
+Email: [shengbinguo2022\[AT\]gmail\[DOT\]com](mailto:shengbinguo2022@gmail.com)
 
 ---
 
 ## <span style="color:#2b64b1;">About me</span>
 
-I am currently a junior undergraduate student at **Harbin Institute of Technology, Shenzhen (HITSZ)**.
+I am currently a senior undergraduate student at **Harbin Institute of Technology, Shenzhen (HITSZ)**.
 
 ## <span style="color:#2b64b1;">Research interests</span>
 
