@@ -10,8 +10,8 @@ title: Shengbin Guo
 School of Science, Department of Frontier,
 Harbin Institute of Technology, Shenzhen.
 
+GitHub: [Previsior](https://github.com/Previsior)  
 Email: [shengbinguo2022\[AT\]gmail\[DOT\]com](mailto:shengbinguo2022@gmail.com)
-GitHub: [Previsior](https://github.com/Previsior)
 
 ---
 
