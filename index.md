@@ -11,6 +11,7 @@ School of Science, Department of Frontier,
 Harbin Institute of Technology, Shenzhen.
 
 Email: [shengbinguo2022\[AT\]gmail\[DOT\]com](mailto:shengbinguo2022@gmail.com)
+GitHub: [Previsior](https://github.com/Previsior)
 
 ---
 
@@ -32,3 +33,4 @@ I am currently a senior undergraduate student at **Harbin Institute of Technolog
 ## <span style="color:#2b64b1;">Honors & Awards</span>
 - **16th Lanqiao Cup Software Competition, National First Prize**, 2025.6
 - **First-Class Academic Scholarship**, Harbin Institute of Technology (ShenZhen), 2023.10
+- **Mathematical Contest in Modeling, Honorable Mention**, 2025.5
