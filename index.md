@@ -17,7 +17,8 @@ Email: [shengbinguo2022\[AT\]gmail\[DOT\]com](mailto:shengbinguo2022@gmail.com)
 
 ## <span style="color:#2b64b1;">About me</span>
 
-I am currently a senior undergraduate student at **Harbin Institute of Technology, Shenzhen (HITSZ)**.
+I am currently a senior undergraduate student at **Harbin Institute of Technology, Shenzhen (HITSZ)**.  
+In addition to studying AI, I also have a wide range of reading interests, including basic philosophy and various subject areas, here is my record site: [About-the-Tao](https://about-the-tao.vercel.app/).
 
 ## <span style="color:#2b64b1;">Research interests</span>
 
@@ -27,7 +28,7 @@ I am currently a senior undergraduate student at **Harbin Institute of Technolog
 
 ## <span style="color:#2b64b1;">News</span>
 
-- **[2026-1]** 🎉🎉 Our paper ["Multimodal Dataset Distillation via Phased Teacher Models"](https://openreview.net/forum?id=Me4AON8160) was accepted to **ICLR 2026**!
+- **[2026-1]** 🎉🎉 Our paper ["Multimodal Dataset Distillation via Phased Teacher Models"](https://github.com/Previsior/PTM-ST) was accepted to **ICLR 2026**!
 
 
 ## <span style="color:#2b64b1;">Honors & Awards</span>
