@@ -18,7 +18,8 @@ Email: [shengbinguo2022\[AT\]gmail\[DOT\]com](mailto:shengbinguo2022@gmail.com)
 ## <span style="color:#2b64b1;">About me</span>
 
 I am currently a senior undergraduate student at **Harbin Institute of Technology, Shenzhen (HITSZ)**.  
-In addition to studying AI, I also have a wide range of reading interests, including basic philosophy and various subject areas, here is my record site: [About-the-Tao](https://about-the-tao.vercel.app/).
+In addition to studying AI, I also have a wide range of reading interests, including basic philosophy and various subject areas.  
+Here is my record site: [About-the-Tao](https://about-the-tao.vercel.app/).
 
 ## <span style="color:#2b64b1;">Research interests</span>
 
