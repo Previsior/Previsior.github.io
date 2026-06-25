@@ -21,6 +21,13 @@ I am currently a senior undergraduate student at **Harbin Institute of Technolog
 In addition to studying AI, I also have a wide range of reading interests, including basic philosophy and various subject areas.  
 Here is my record site: [About-the-Tao](https://about-the-tao.vercel.app/).
 
+## <span style="color:#2b64b1;">Experience</span>
+
+- **Aug. 2026 - Jun. 2029 (expected)**, M.S. Student, School of Intelligence Science and Technology, Nanjing University.
+- **Feb. 2026 - Present**, Research Intern, Shanghai Artificial Intelligence Laboratory.
+- **Aug. 2022 - Jun. 2026**, B.S. Student, College of Frontier Sciences, Harbin Institute of Technology, Shenzhen.
+- **Sep. 2019 - Jun. 2022**, Student, Tangshan No. 1 High School, Hebei Province.
+
 ## <span style="color:#2b64b1;">Research interests</span>
 
 - AIGC
@@ -29,7 +36,8 @@ Here is my record site: [About-the-Tao](https://about-the-tao.vercel.app/).
 
 ## <span style="color:#2b64b1;">News</span>
 
-- **[2026-1]** 🎉🎉 Our paper ["Multimodal Dataset Distillation via Phased Teacher Models"](https://github.com/Previsior/PTM-ST) was accepted to **ICLR 2026**!
+- **[2026-6]** 🎉 Our paper ["PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing"](https://github.com/Previsior/PhyEditBench) was accepted to **ECCV 2026**!
+- **[2026-1]** 🎉 Our paper ["Multimodal Dataset Distillation via Phased Teacher Models"](https://github.com/Previsior/PTM-ST) was accepted to **ICLR 2026**!
 
 
 ## <span style="color:#2b64b1;">Honors & Awards</span>
