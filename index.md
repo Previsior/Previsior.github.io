@@ -23,7 +23,7 @@ Here is my record site: [About-the-Tao](https://about-the-tao.vercel.app/).
 
 ## <span style="color:#2b64b1;">Experience</span>
 
-- **Aug. 2026 - Jun. 2029 (expected)**, M.S. Student, School of Intelligence Science and Technology, Nanjing University.
+- **Sep. 2026 - Jun. 2029 (expected)**, M.S. Student, School of Intelligence Science and Technology, Nanjing University.
 - **Feb. 2026 - Present**, Research Intern, Shanghai Artificial Intelligence Laboratory.
 - **Aug. 2022 - Jun. 2026**, B.S. Student, College of Frontier Sciences, Harbin Institute of Technology, Shenzhen.
 - **Sep. 2019 - Jun. 2022**, Student, Tangshan No. 1 High School, Hebei Province.
