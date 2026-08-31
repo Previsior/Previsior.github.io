@@ -7,9 +7,6 @@ title: Shengbin Guo
 
 # <span style="color:#2b64b1;">Shengbin Guo (郭圣彬)</span>
 
-School of Science, Department of Frontier,
-Harbin Institute of Technology, Shenzhen.
-
 GitHub: [Previsior](https://github.com/Previsior)  
 Email: [shengbinguo2022\[AT\]gmail\[DOT\]com](mailto:shengbinguo2022@gmail.com)
 
@@ -17,7 +14,7 @@ Email: [shengbinguo2022\[AT\]gmail\[DOT\]com](mailto:shengbinguo2022@gmail.com)
 
 ## <span style="color:#2b64b1;">About me</span>
 
-I am currently a senior undergraduate student at **Harbin Institute of Technology, Shenzhen (HITSZ)**.  
+I am currently a M.S. Student at **School of Intelligence Science and Technology, Nanjing University**.  
 In addition to studying AI, I also have a wide range of reading interests, including basic philosophy and various subject areas.  
 Here is my record site: [About-the-Tao](https://about-the-tao.vercel.app/).
 
